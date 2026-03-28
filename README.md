@@ -1,4 +1,4 @@
 # apnacollege
 This is my first Git Repository
 <br>
-Author - Harshi Mittal
+Author - Harshi (apna college)
